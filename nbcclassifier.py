@@ -1,3 +1,7 @@
+# lab 2 Naive Bayes
+# Akhet Abilkhayir
+
+
 class NaiveBayes:
 
     negative_map = {}

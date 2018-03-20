@@ -1,3 +1,7 @@
+# lab 2 Naive Bayes
+# Akhet Abilkhayir
+
+
 from nltk.tokenize import RegexpTokenizer
 from nbcclassifier import NaiveBayes
 

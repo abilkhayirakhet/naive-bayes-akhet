@@ -1,1 +1,2 @@
-# naive-bayes-akhet
+# lab 2 Naive Bayes
+# Akhet Abilkhayir
